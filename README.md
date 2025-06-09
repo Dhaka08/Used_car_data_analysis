@@ -35,7 +35,7 @@ This project explores a dataset of used cars to provide **data-driven recommenda
 📁 Project Structure
 
 - `Used_Car_Data_Analysis.ipynb` – Full data analysis notebook
-- `used_car__Data_Analysis_report.pdf` – Final project report
+- `used_car__Data_Analysis_report.docx` – Final project report
 ---
 
 📎 How to Use
@@ -47,7 +47,7 @@ This project explores a dataset of used cars to provide **data-driven recommenda
 ---
 📄 Final Report
 
-📥 [used_car__Data_Analysis_report.pdf]
+📥 [used_car__Data_Analysis_report.docx]
 
 ---
 🤝 Let's Connect!
