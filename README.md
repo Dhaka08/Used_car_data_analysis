@@ -47,7 +47,8 @@ This project explores a dataset of used cars to provide **data-driven recommenda
 ---
 📄 Final Report
 
-📥 [used_car__Data_Analysis_report.docx]
+📥 [Download Project Report (PDF)](./)
+
 
 ---
 🤝 Let's Connect!
